@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "73387c40-1fc0-4779-8174-02cc51d1ad45",
+    "name": "ARMONGUS",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
