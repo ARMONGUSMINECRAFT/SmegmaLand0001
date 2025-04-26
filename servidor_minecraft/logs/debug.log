@@ -4553,3 +4553,373 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 14:35:09.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [26Apr2025 14:35:09.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ARMONGUS was blown up by The Iron Colossus
 [26Apr2025 14:35:11.417] [Server thread/INFO] [do_a_barrel_roll/]: Client of ARMONGUS accepted server config.
+[26Apr2025 14:38:08.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:19.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:21.164] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:22.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:30.025] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:37.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:37.263] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:37.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:37.563] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:37.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:39.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:47.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:47.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:48.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:49.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:50.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:50.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:51.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:52.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:52.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:53.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:54.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:54.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:55.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:55.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:56.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:56.715] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:57.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:58.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:38:59.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:02.467] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:03.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:03.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:04.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:04.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:05.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:05.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:09.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:19.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:19.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:21.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:21.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:22.464] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:23.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:23.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:24.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:24.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:25.062] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:25.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:26.062] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:26.564] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:27.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:27.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:28.062] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:28.614] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:29.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:29.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:30.563] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:31.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:31.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:32.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:32.812] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:33.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:34.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:34.463] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:34.963] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:35.515] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:35.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:36.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:37.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:37.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:38.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:38.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:39.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:39.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:40.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:41.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:41.463] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:41.963] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:42.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:43.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:43.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:44.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:45.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:45.415] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:47.963] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:48.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:39:58.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:40:01.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 14:40:01.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 14:40:11.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:40:11.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ARMONGUS has completed the challenge [The Iron Keeper]
+[26Apr2025 14:40:11.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:40:11.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:40:11.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ARMONGUS has made the advancement [The Iron Colossus Relic]
+[26Apr2025 14:40:11.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ARMONGUS has made the advancement [The Iron Colossus Treasure Bag]
+[26Apr2025 14:40:11.768] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:40:11.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:40:53.364] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:40:56.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:41:02.219] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:41:09.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:42:16.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:42:16.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:42:16.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:42:16.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:42:17.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:42:17.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:42:17.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ARMONGUS has made the advancement [Monster Hunter]
+[26Apr2025 14:42:18.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:43:31.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:43:31.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 14:43:33.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:43:33.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 14:43:39.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:43:39.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 14:43:40.461] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:43:40.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:43:41.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 14:44:07.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ARMONGUS lost connection: Disconnected
+[26Apr2025 14:44:07.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ARMONGUS left the game
+[26Apr2025 14:45:01.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 14:45:01.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 14:47:23.100] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[26Apr2025 14:47:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Apr2025 14:47:23.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Apr2025 14:47:23.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Apr2025 14:47:23.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Apr2025 14:47:23.989] [Server thread/ERROR] [net.minecraft.world.level.saveddata.SavedData/]: Could not save data net.minecraftforge.common.util.LevelCapabilityData@44e44372
+java.io.FileNotFoundException: ./world/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128944_(NbtIo.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.saveddata.SavedData.m_77757_(SavedData.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164865_(DimensionDataStorage.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_78151_(DimensionDataStorage.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8806_(ServerLevel.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:737) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:23.990] [Server thread/ERROR] [net.minecraft.world.level.saveddata.SavedData/]: Could not save data net.minecraft.world.entity.raid.Raids@74a39d92
+java.io.FileNotFoundException: ./world/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128944_(NbtIo.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.saveddata.SavedData.m_77757_(SavedData.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164865_(DimensionDataStorage.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_78151_(DimensionDataStorage.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8806_(ServerLevel.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:737) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:24.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Apr2025 14:47:24.509] [Server thread/ERROR] [net.minecraft.world.level.saveddata.SavedData/]: Could not save data net.minecraftforge.common.util.LevelCapabilityData@1499e9fd
+java.io.FileNotFoundException: ./world/DIM-1/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128944_(NbtIo.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.saveddata.SavedData.m_77757_(SavedData.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164865_(DimensionDataStorage.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_78151_(DimensionDataStorage.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8806_(ServerLevel.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:737) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:24.510] [Server thread/ERROR] [net.minecraft.world.level.saveddata.SavedData/]: Could not save data net.minecraft.world.entity.raid.Raids@6419b571
+java.io.FileNotFoundException: ./world/DIM-1/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128944_(NbtIo.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.saveddata.SavedData.m_77757_(SavedData.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164865_(DimensionDataStorage.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_78151_(DimensionDataStorage.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8806_(ServerLevel.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:737) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:24.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Apr2025 14:47:24.511] [Server thread/ERROR] [net.minecraft.world.level.saveddata.SavedData/]: Could not save data net.minecraftforge.common.util.LevelCapabilityData@74d56ca3
+java.io.FileNotFoundException: ./world/DIM1/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128944_(NbtIo.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.saveddata.SavedData.m_77757_(SavedData.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164865_(DimensionDataStorage.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_78151_(DimensionDataStorage.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8806_(ServerLevel.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:737) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:24.512] [Server thread/ERROR] [net.minecraft.world.level.saveddata.SavedData/]: Could not save data net.minecraft.world.entity.raid.Raids@2ca97705
+java.io.FileNotFoundException: ./world/DIM1/data/raids_end.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128944_(NbtIo.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.saveddata.SavedData.m_77757_(SavedData.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164865_(DimensionDataStorage.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_78151_(DimensionDataStorage.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8806_(ServerLevel.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:737) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:24.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[26Apr2025 14:47:24.513] [Server thread/ERROR] [net.minecraft.world.level.saveddata.SavedData/]: Could not save data net.minecraftforge.common.util.LevelCapabilityData@7724a56c
+java.io.FileNotFoundException: ./world/dimensions/aether/the_aether/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128944_(NbtIo.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.saveddata.SavedData.m_77757_(SavedData.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164865_(DimensionDataStorage.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_78151_(DimensionDataStorage.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8806_(ServerLevel.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:737) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:24.514] [Server thread/ERROR] [net.minecraft.world.level.saveddata.SavedData/]: Could not save data net.minecraft.world.entity.raid.Raids@5e3f24c4
+java.io.FileNotFoundException: ./world/dimensions/aether/the_aether/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128944_(NbtIo.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.saveddata.SavedData.m_77757_(SavedData.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164865_(DimensionDataStorage.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_78151_(DimensionDataStorage.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8806_(ServerLevel.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:737) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:24.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 14:47:24.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 14:47:24.537] [Server thread/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Failed to save level ./world
+java.io.IOException: No such file or directory
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2170) ~[?:?]
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.m_78290_(LevelStorageSource.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:515) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Apr2025 14:47:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Apr2025 14:47:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Apr2025 14:47:24.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[26Apr2025 14:47:24.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Apr2025 14:47:24.572] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Apr2025 14:47:24.573] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/SmegmaLand0001/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23214!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:24.576] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[26Apr2025 14:47:24.591] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/SmegmaLand0001/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23180!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23214!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 14:47:24.594] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[26Apr2025 14:47:24.594] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[26Apr2025 14:47:24.595] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
