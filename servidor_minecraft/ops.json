@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "bdb4916a-a795-4310-ae32-3435659d6357",
+    "name": "SOMBRA0_8",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "73387c40-1fc0-4779-8174-02cc51d1ad45",
     "name": "ARMONGUS",
     "level": 4,
