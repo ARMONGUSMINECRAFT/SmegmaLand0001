@@ -131,3 +131,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Apr2025 14:40:56.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Levitation to ARMONGUS
 [29Apr2025 14:50:53.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ARMONGUS was blown up by Creeper
 [29Apr2025 14:51:34.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ARMONGUS: Set 33 experience levels on ARMONGUS]
+[29Apr2025 15:01:32.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ARMONGUS lost connection: Disconnected
+[29Apr2025 15:01:32.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ARMONGUS left the game
+[29Apr2025 15:01:36.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Apr2025 15:01:36.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Apr2025 15:01:36.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Apr2025 15:01:36.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Apr2025 15:01:36.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Apr2025 15:01:36.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Apr2025 15:01:36.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Apr2025 15:01:36.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Apr2025 15:01:36.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Apr2025 15:01:36.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
