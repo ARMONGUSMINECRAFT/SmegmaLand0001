@@ -4216,5 +4216,23 @@
     },
     "done": true
   },
+  "armageddon_mod:overworld_conqueror": {
+    "criteria": {
+      "overworld_conqueror_0": "2025-04-29 15:57:08 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:eldorath_treasure_bag_advancmenet": {
+    "criteria": {
+      "eldorath_treasure_bag_advancmenet_0": "2025-04-29 15:57:13 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:the_diamond_keeper": {
+    "criteria": {
+      "the_diamond_keeper_0": "2025-04-29 15:57:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

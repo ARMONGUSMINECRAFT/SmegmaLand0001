@@ -3059,5 +3059,101 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:eldorath_relic_advancement": {
+    "criteria": {
+      "eldorath_relic_advancement_0": "2025-04-29 15:57:09 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:overworld_conqueror": {
+    "criteria": {
+      "overworld_conqueror_0": "2025-04-29 15:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:eldorath_treasure_bag_advancmenet": {
+    "criteria": {
+      "eldorath_treasure_bag_advancmenet_0": "2025-04-29 15:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-29 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:the_diamond_keeper": {
+    "criteria": {
+      "the_diamond_keeper_0": "2025-04-29 15:57:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
