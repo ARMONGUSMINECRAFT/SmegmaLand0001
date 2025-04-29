@@ -123,3 +123,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Apr2025 14:23:06.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ARMONGUS[/127.189.178.83:35451] logged in with entity id 26 at (-3198.5075513749184, 62.9375, -340.34430779439714)
 [29Apr2025 14:23:07.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ARMONGUS joined the game
 [29Apr2025 14:23:10.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3631ms or 72 ticks behind
+[29Apr2025 14:32:56.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/131, l='ServerLevel[world]', x=-3168.70, y=62.05, z=-262.30] died, message: 'Villager was slain by Drowned'
+[29Apr2025 14:38:05.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ARMONGUS has made the advancement [We Need to Go Deeper]
+[29Apr2025 14:38:09.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
+[29Apr2025 14:40:23.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[29Apr2025 14:40:23.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: effect ARMONGUS levitation 10<--[HERE]
+[29Apr2025 14:40:56.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Levitation to ARMONGUS
