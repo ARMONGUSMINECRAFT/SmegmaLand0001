@@ -439,6 +439,7 @@
       "cooked_porkchop": "2025-04-27 15:31:59 +0000",
       "cooked_beef": "2025-04-27 15:20:26 +0000",
       "bread": "2025-04-27 16:30:19 +0000",
+      "golden_apple": "2025-04-29 15:47:20 +0000",
       "rotten_flesh": "2025-04-27 15:39:16 +0000",
       "suspicious_stew": "2025-04-27 15:34:59 +0000",
       "carrot": "2025-04-27 15:54:25 +0000"
@@ -4185,11 +4186,11 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "minecraft:warped_forest": "2025-04-29 14:38:09 +0000"
+      "has_dandelion": "2025-04-29 14:30:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -4197,15 +4198,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-04-29 14:30:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-29 14:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-04-29 14:38:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-29 15:49:42 +0000"
     },
     "done": true
   },
