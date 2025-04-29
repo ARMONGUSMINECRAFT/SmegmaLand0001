@@ -473,12 +473,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-27 15:48:46 +0000",
+      "minecraft:blaze": "2025-04-29 16:10:58 +0000",
       "minecraft:skeleton": "2025-04-27 15:25:41 +0000",
       "minecraft:vindicator": "2025-04-27 18:40:21 +0000",
       "minecraft:spider": "2025-04-27 15:28:00 +0000",
       "minecraft:creeper": "2025-04-27 15:25:04 +0000",
       "minecraft:phantom": "2025-04-27 19:20:59 +0000",
+      "minecraft:zombified_piglin": "2025-04-29 16:08:46 +0000",
       "minecraft:witch": "2025-04-27 19:51:31 +0000",
+      "minecraft:wither_skeleton": "2025-04-29 16:08:45 +0000",
       "minecraft:zombie": "2025-04-27 15:21:28 +0000",
       "minecraft:zombie_villager": "2025-04-27 17:09:06 +0000"
     },
@@ -4206,13 +4209,45 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-29 16:06:32 +0000",
+      "minecraft:nether_wastes": "2025-04-29 16:08:27 +0000",
       "minecraft:warped_forest": "2025-04-29 14:38:09 +0000"
     },
     "done": false
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-29 16:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-29 16:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-29 16:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-29 16:05:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-29 15:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-29 16:05:59 +0000"
     },
     "done": true
   },
@@ -4222,9 +4257,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-29 16:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 16:08:01 +0000"
+    },
+    "done": true
+  },
   "armageddon_mod:eldorath_treasure_bag_advancmenet": {
     "criteria": {
       "eldorath_treasure_bag_advancmenet_0": "2025-04-29 15:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 16:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-29 16:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-29 16:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-29 16:13:18 +0000"
     },
     "done": true
   },
